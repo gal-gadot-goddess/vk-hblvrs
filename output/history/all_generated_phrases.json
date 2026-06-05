@@ -29,7 +29,37 @@
       "russian": "Соверши первый большой прыжок.",
       "category": "Hope",
       "generated_at": "2026-06-05T13:39:00.201377"
+    },
+    {
+      "english": "Un gesto, un sol.",
+      "russian": "Один жест, одно солнце.",
+      "category": "Kindness",
+      "generated_at": "2026-06-05T17:23:16.971424"
+    },
+    {
+      "english": "Sonríe, florece.",
+      "russian": "Улыбнись, расцветай.",
+      "category": "Kindness",
+      "generated_at": "2026-06-05T17:23:16.971434"
+    },
+    {
+      "english": "Luz amable, paz.",
+      "russian": "Добрый свет, мир.",
+      "category": "Kindness",
+      "generated_at": "2026-06-05T17:23:16.971435"
+    },
+    {
+      "english": "Genera calma.",
+      "russian": "Создавай спокойствие.",
+      "category": "Kindness",
+      "generated_at": "2026-06-05T17:23:16.971436"
+    },
+    {
+      "english": "Corazón abierto, alas.",
+      "russian": "Открытое сердце, крылья.",
+      "category": "Kindness",
+      "generated_at": "2026-06-05T17:23:16.971437"
     }
   ],
-  "last_updated": "2026-06-05T13:39:00.201379"
+  "last_updated": "2026-06-05T17:23:16.971439"
 }
