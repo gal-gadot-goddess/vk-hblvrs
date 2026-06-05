@@ -59,7 +59,37 @@
       "russian": "Открытое сердце, крылья.",
       "category": "Kindness",
       "generated_at": "2026-06-05T17:23:16.971437"
+    },
+    {
+      "english": "Hoy aprendiste, un paso mas.",
+      "russian": "Сегодня ты научился, еще один шаг.",
+      "category": "Success",
+      "generated_at": "2026-06-05T20:50:30.086741"
+    },
+    {
+      "english": "El esfuerzo rinde, respira.",
+      "russian": "Усилие окупается, дыши.",
+      "category": "Success",
+      "generated_at": "2026-06-05T20:50:30.086752"
+    },
+    {
+      "english": "Palabra nueva, alegría.",
+      "russian": "Новое слово, радость.",
+      "category": "Success",
+      "generated_at": "2026-06-05T20:50:30.086753"
+    },
+    {
+      "english": "Comprende, avanza ahora.",
+      "russian": "Пойми, двигайся сейчас.",
+      "category": "Success",
+      "generated_at": "2026-06-05T20:50:30.086755"
+    },
+    {
+      "english": "Pequeño logro, gran orgullo.",
+      "russian": "Маленькое достижение, большая гордость.",
+      "category": "Success",
+      "generated_at": "2026-06-05T20:50:30.086759"
     }
   ],
-  "last_updated": "2026-06-05T17:23:16.971439"
+  "last_updated": "2026-06-05T20:50:30.086761"
 }
