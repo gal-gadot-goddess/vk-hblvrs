@@ -89,7 +89,37 @@
       "russian": "Маленькое достижение, большая гордость.",
       "category": "Success",
       "generated_at": "2026-06-05T20:50:30.086759"
+    },
+    {
+      "english": "Entiendes más, sigues soñando.",
+      "russian": "Ты понимаешь больше, продолжаешь мечтать.",
+      "category": "Confidence",
+      "generated_at": "2026-06-06T09:28:25.415337"
+    },
+    {
+      "english": "Cuestiona fácil, responde valiente.",
+      "russian": "Задавай сложные вопросы, отвечай смело.",
+      "category": "Confidence",
+      "generated_at": "2026-06-06T09:28:25.415345"
+    },
+    {
+      "english": "Pronuncia firme, sonido claro.",
+      "russian": "Произноси твёрдо, звук ясный.",
+      "category": "Confidence",
+      "generated_at": "2026-06-06T09:28:25.415347"
+    },
+    {
+      "english": "Leo bien, comprendo mucho.",
+      "russian": "Я читаю хорошо, понимаю многое.",
+      "category": "Confidence",
+      "generated_at": "2026-06-06T09:28:25.415348"
+    },
+    {
+      "english": "Escucha atento, crece rápido.",
+      "russian": "Слушай внимательно, расти быстро.",
+      "category": "Confidence",
+      "generated_at": "2026-06-06T09:28:25.415349"
     }
   ],
-  "last_updated": "2026-06-05T20:50:30.086761"
+  "last_updated": "2026-06-06T09:28:25.415350"
 }
