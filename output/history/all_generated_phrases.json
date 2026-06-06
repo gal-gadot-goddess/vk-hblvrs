@@ -179,7 +179,37 @@
       "russian": "Любопытный шаг, новый урок.",
       "category": "Motivation",
       "generated_at": "2026-06-06T16:11:22.352156"
+    },
+    {
+      "english": "Una frase más, ¡bravo!",
+      "russian": "Еще одна фраза, браво!",
+      "category": "Growth",
+      "generated_at": "2026-06-06T20:13:55.751628"
+    },
+    {
+      "english": "Escuchas bien, ¡sí!",
+      "russian": "Ты хорошо слушаешь, да!",
+      "category": "Growth",
+      "generated_at": "2026-06-06T20:13:55.751638"
+    },
+    {
+      "english": "Hablando, progresando...",
+      "russian": "Говоря, прогрессируя...",
+      "category": "Growth",
+      "generated_at": "2026-06-06T20:13:55.751640"
+    },
+    {
+      "english": "Comprendes un poco, ¡genial!",
+      "russian": "Понимаешь немного, отлично!",
+      "category": "Growth",
+      "generated_at": "2026-06-06T20:13:55.751642"
+    },
+    {
+      "english": "Cada día, aprendes",
+      "russian": "Каждый день, учишься",
+      "category": "Growth",
+      "generated_at": "2026-06-06T20:13:55.751643"
     }
   ],
-  "last_updated": "2026-06-06T16:11:22.352157"
+  "last_updated": "2026-06-06T20:13:55.751645"
 }
