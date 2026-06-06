@@ -119,7 +119,37 @@
       "russian": "Слушай внимательно, расти быстро.",
       "category": "Confidence",
       "generated_at": "2026-06-06T09:28:25.415349"
+    },
+    {
+      "english": "Escucha tu alma.",
+      "russian": "Слушай свою душу.",
+      "category": "Kindness",
+      "generated_at": "2026-06-06T12:06:10.884983"
+    },
+    {
+      "english": "Fluye como agua.",
+      "russian": "Теки, как вода.",
+      "category": "Kindness",
+      "generated_at": "2026-06-06T12:06:10.884991"
+    },
+    {
+      "english": "La quietud enseña.",
+      "russian": "Тишина учит.",
+      "category": "Kindness",
+      "generated_at": "2026-06-06T12:06:10.884993"
+    },
+    {
+      "english": "Camina tu verdad.",
+      "russian": "Следуй своей истине.",
+      "category": "Kindness",
+      "generated_at": "2026-06-06T12:06:10.884994"
+    },
+    {
+      "english": "Silencio profundo.",
+      "russian": "Глубокое молчание.",
+      "category": "Kindness",
+      "generated_at": "2026-06-06T12:06:10.884995"
     }
   ],
-  "last_updated": "2026-06-06T09:28:25.415350"
+  "last_updated": "2026-06-06T12:06:10.884997"
 }
