@@ -209,7 +209,37 @@
       "russian": "Каждый день, учишься",
       "category": "Growth",
       "generated_at": "2026-06-06T20:13:55.751643"
+    },
+    {
+      "english": "Calma el ruido, escucha.",
+      "russian": "Успокой шум, слушай.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-07T10:07:26.251106"
+    },
+    {
+      "english": "Silencio que abraza, respiro.",
+      "russian": "Тишина, которая обнимает, вдыхаю.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-07T10:07:26.251116"
+    },
+    {
+      "english": "Observa mi pausa.",
+      "russian": "Наблюдай мою паузу.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-07T10:07:26.251118"
+    },
+    {
+      "english": "Mi aire me eleva.",
+      "russian": "Мой воздух поднимает меня.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-07T10:07:26.251119"
+    },
+    {
+      "english": "Vuelve a tu centro.",
+      "russian": "Вернись к своему центру.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-07T10:07:26.251120"
     }
   ],
-  "last_updated": "2026-06-06T20:13:55.751645"
+  "last_updated": "2026-06-07T10:07:26.251121"
 }
