@@ -419,7 +419,37 @@
       "russian": "Маленький прорыв, большая победа.",
       "category": "Happiness",
       "generated_at": "2026-06-08T18:00:17.751776"
+    },
+    {
+      "english": "Tu mente ordena, el saber florece.",
+      "russian": "Твой разум приказывает, знание расцветает.",
+      "category": "Success",
+      "generated_at": "2026-06-08T21:13:19.525790"
+    },
+    {
+      "english": "La meta inspira, el camino avanza.",
+      "russian": "Цель вдохновляет, путь продвигается.",
+      "category": "Success",
+      "generated_at": "2026-06-08T21:13:19.525798"
+    },
+    {
+      "english": "Nuevo reto, vista clara.",
+      "russian": "Новый вызов, ясный взгляд.",
+      "category": "Success",
+      "generated_at": "2026-06-08T21:13:19.525800"
+    },
+    {
+      "english": "Conecta ideas, arma tu meta.",
+      "russian": "Соединяй идеи, строй свою цель.",
+      "category": "Success",
+      "generated_at": "2026-06-08T21:13:19.525801"
+    },
+    {
+      "english": "El código oculto, tú lo resuelves.",
+      "russian": "Скрытый код, ты его решаешь.",
+      "category": "Success",
+      "generated_at": "2026-06-08T21:13:19.525802"
     }
   ],
-  "last_updated": "2026-06-08T18:00:17.751778"
+  "last_updated": "2026-06-08T21:13:19.525804"
 }
