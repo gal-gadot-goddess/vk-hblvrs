@@ -449,7 +449,37 @@
       "russian": "Скрытый код, ты его решаешь.",
       "category": "Success",
       "generated_at": "2026-06-08T21:13:19.525802"
+    },
+    {
+      "english": "Fuerza serena nace, mira.",
+      "russian": "Спокойная сила родится, смотри.",
+      "category": "Courage",
+      "generated_at": "2026-06-09T10:36:16.889580"
+    },
+    {
+      "english": "Tu luz interior, confía.",
+      "russian": "Твой внутренний свет, доверяй.",
+      "category": "Courage",
+      "generated_at": "2026-06-09T10:36:16.889587"
+    },
+    {
+      "english": "Escucha el alma, avanza.",
+      "russian": "Слушай душу, продвигайся.",
+      "category": "Courage",
+      "generated_at": "2026-06-09T10:36:16.889589"
+    },
+    {
+      "english": "Valentía callada germina.",
+      "russian": "Тихая храбрость прорастает.",
+      "category": "Courage",
+      "generated_at": "2026-06-09T10:36:16.889590"
+    },
+    {
+      "english": "Un paso firme, nace.",
+      "russian": "Один твердый шаг, рождается.",
+      "category": "Courage",
+      "generated_at": "2026-06-09T10:36:16.889591"
     }
   ],
-  "last_updated": "2026-06-08T21:13:19.525804"
+  "last_updated": "2026-06-09T10:36:16.889593"
 }
