@@ -479,7 +479,37 @@
       "russian": "Один твердый шаг, рождается.",
       "category": "Courage",
       "generated_at": "2026-06-09T10:36:16.889591"
+    },
+    {
+      "english": "Rompe el eco, habla.",
+      "russian": "Развей эхо, говори.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-09T13:44:59.898318"
+    },
+    {
+      "english": "Tu pregunta, la llave.",
+      "russian": "Твой вопрос - ключ.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-09T13:44:59.898326"
+    },
+    {
+      "english": "Verdad fresca, florece.",
+      "russian": "Свежая правда расцветает.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-09T13:44:59.898328"
+    },
+    {
+      "english": "Imagina ahora, vive.",
+      "russian": "Представь сейчас, живи.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-09T13:44:59.898329"
+    },
+    {
+      "english": "Siembra error, aprende.",
+      "russian": "Посеши ошибки, учись.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-09T13:44:59.898330"
     }
   ],
-  "last_updated": "2026-06-09T10:36:16.889593"
+  "last_updated": "2026-06-09T13:44:59.898332"
 }
