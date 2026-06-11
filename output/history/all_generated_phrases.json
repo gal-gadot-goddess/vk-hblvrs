@@ -749,7 +749,37 @@
       "russian": "Новые крылья, лети.",
       "category": "Positive Life",
       "generated_at": "2026-06-11T14:36:33.336593"
+    },
+    {
+      "english": "Graba esta frase hoy.",
+      "russian": "Запомни эту фразу сегодня.",
+      "category": "Purpose",
+      "generated_at": "2026-06-11T18:20:26.370023"
+    },
+    {
+      "english": "Actúa ahora, conquista.",
+      "russian": "Действуй сейчас, побеждай.",
+      "category": "Purpose",
+      "generated_at": "2026-06-11T18:20:26.370030"
+    },
+    {
+      "english": "Tu voz espera, habla.",
+      "russian": "Твой голос ждет, говори.",
+      "category": "Purpose",
+      "generated_at": "2026-06-11T18:20:26.370032"
+    },
+    {
+      "english": "Sé el idioma mismo.",
+      "russian": "Будь самим языком.",
+      "category": "Purpose",
+      "generated_at": "2026-06-11T18:20:26.370033"
+    },
+    {
+      "english": "Mira el futuro. Claro.",
+      "russian": "Смотри в будущее. Четко.",
+      "category": "Purpose",
+      "generated_at": "2026-06-11T18:20:26.370034"
     }
   ],
-  "last_updated": "2026-06-11T14:36:33.336594"
+  "last_updated": "2026-06-11T18:20:26.370036"
 }
