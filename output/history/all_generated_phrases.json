@@ -689,7 +689,37 @@
       "russian": "Ты понимаешь, жизнь улыбается.",
       "category": "Joy",
       "generated_at": "2026-06-10T21:27:42.146160"
+    },
+    {
+      "english": "Un aplauso hoy. Valoras tu esfuerzo.",
+      "russian": "Сегодня аплодисменты. Цени свои усилия.",
+      "category": "Courage",
+      "generated_at": "2026-06-11T11:24:46.812656"
+    },
+    {
+      "english": "Hoy aprendo algo. ¡Qué bueno!",
+      "russian": "Сегодня я узнал что-то. Отлично!",
+      "category": "Courage",
+      "generated_at": "2026-06-11T11:24:46.812666"
+    },
+    {
+      "english": "Salsa a día. Canto, vivo.",
+      "russian": "Сальса каждый день. Пою, живу.",
+      "category": "Courage",
+      "generated_at": "2026-06-11T11:24:46.812668"
+    },
+    {
+      "english": "Una frase nueva. Sonríe, puedes.",
+      "russian": "Новая фраза. Улыбнись, ты можешь.",
+      "category": "Courage",
+      "generated_at": "2026-06-11T11:24:46.812669"
+    },
+    {
+      "english": "Palabras claras. Entiendo, avanzo.",
+      "russian": "Понятные слова. Понимаю, иду вперед.",
+      "category": "Courage",
+      "generated_at": "2026-06-11T11:24:46.812670"
     }
   ],
-  "last_updated": "2026-06-10T21:27:42.146162"
+  "last_updated": "2026-06-11T11:24:46.812672"
 }
