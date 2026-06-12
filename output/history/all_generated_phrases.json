@@ -869,7 +869,37 @@
       "russian": "Лёд тает, вода есть.",
       "category": "Perseverance",
       "generated_at": "2026-06-12T14:10:50.647778"
+    },
+    {
+      "english": "Mi sol, calienta siempre.",
+      "russian": "Мое солнце, греет вечно.",
+      "category": "Love",
+      "generated_at": "2026-06-12T17:40:24.766251"
+    },
+    {
+      "english": "Luna fiel, inspira hoy.",
+      "russian": "Верная луна, вдохновляй сегодня.",
+      "category": "Love",
+      "generated_at": "2026-06-12T17:40:24.766260"
+    },
+    {
+      "english": "Sonrisa, clara estrella.",
+      "russian": "Улыбка, ясная звезда.",
+      "category": "Love",
+      "generated_at": "2026-06-12T17:40:24.766262"
+    },
+    {
+      "english": "Pienso en ti, muy dulce.",
+      "russian": "Думаю о тебе, очень нежно.",
+      "category": "Love",
+      "generated_at": "2026-06-12T17:40:24.766263"
+    },
+    {
+      "english": "Tu mirada, mi puerto.",
+      "russian": "Твой взгляд, мой порт.",
+      "category": "Love",
+      "generated_at": "2026-06-12T17:40:24.766264"
     }
   ],
-  "last_updated": "2026-06-12T14:10:50.647780"
+  "last_updated": "2026-06-12T17:40:24.766266"
 }
