@@ -989,7 +989,37 @@
       "russian": "Мудрые слова, размышляй.",
       "category": "Friendship",
       "generated_at": "2026-06-13T12:24:46.325570"
+    },
+    {
+      "english": "Respira hoy, vive ahora.",
+      "russian": "Дыши сегодня, живи сейчас.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-13T16:18:39.703714"
+    },
+    {
+      "english": "Olvida el ruido, escucha sentir.",
+      "russian": "Забудь шум, вслушайся в ощущения.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-13T16:18:39.703724"
+    },
+    {
+      "english": "Acepta el instante, sin juzgar.",
+      "russian": "Прими момент, без осуждения.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-13T16:18:39.703725"
+    },
+    {
+      "english": "Detrás del estrés, hay paz.",
+      "russian": "За стрессом, есть покой.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-13T16:18:39.703726"
+    },
+    {
+      "english": "Tu calma es contagiosa.",
+      "russian": "Твое спокойствие заразительно.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-13T16:18:39.703727"
     }
   ],
-  "last_updated": "2026-06-13T12:24:46.325572"
+  "last_updated": "2026-06-13T16:18:39.703729"
 }
