@@ -1019,7 +1019,37 @@
       "russian": "Твое спокойствие заразительно.",
       "category": "Mindfulness",
       "generated_at": "2026-06-13T16:18:39.703727"
+    },
+    {
+      "english": "Respira profundo, suelta el estrés. (Breathe deep, release stress.)",
+      "russian": "Дыши глубоко, отпусти напряжение.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-13T20:20:01.215509"
+    },
+    {
+      "english": "Una pausa, mil caminos. (One pause, a thousand paths.)",
+      "russian": "Одна пауза, тысяча путей.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-13T20:20:01.215517"
+    },
+    {
+      "english": "Enfócate aquí, ahora, tú. (Focus here, now, you.)",
+      "russian": "Сконцентрируйся здесь, сейчас, ты.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-13T20:20:01.215518"
+    },
+    {
+      "english": "Cada instante, un regalo. (Every instant, a gift.)",
+      "russian": "Каждый миг, подарок.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-13T20:20:01.215520"
+    },
+    {
+      "english": "Silencio. Allí, es paz. (Silence. There, is peace.)",
+      "russian": "Тишина. Там, мир.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-13T20:20:01.215521"
     }
   ],
-  "last_updated": "2026-06-13T16:18:39.703729"
+  "last_updated": "2026-06-13T20:20:01.215522"
 }
