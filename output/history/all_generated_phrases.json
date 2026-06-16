@@ -1289,7 +1289,37 @@
       "russian": "Открывай. Расти без страха.",
       "category": "Gratitude",
       "generated_at": "2026-06-15T21:47:13.000934"
+    },
+    {
+      "english": "Fluye suave, ola tranquila.",
+      "russian": "Теки мягко, спокойная волна.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-16T12:14:10.139573"
+    },
+    {
+      "english": "Siente el aire, levanta vuelo.",
+      "russian": "Почувствуй воздух, взмой ввысь.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-16T12:14:10.139581"
+    },
+    {
+      "english": "Observa el río, llega al mar.",
+      "russian": "Наблюдай реку, достигни моря.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-16T12:14:10.139583"
+    },
+    {
+      "english": "Escucha tu latido, paz crece.",
+      "russian": "Услышь свой пульс, мир растёт.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-16T12:14:10.139584"
+    },
+    {
+      "english": "Respira luz, deja ir sombra.",
+      "russian": "Дыши светом, оставь тень.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-16T12:14:10.139585"
     }
   ],
-  "last_updated": "2026-06-15T21:47:13.000936"
+  "last_updated": "2026-06-16T12:14:10.139587"
 }
