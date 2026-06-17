@@ -1439,7 +1439,37 @@
       "russian": "Честное слово, прочный мост.",
       "category": "Hope",
       "generated_at": "2026-06-17T17:51:15.975764"
+    },
+    {
+      "english": "Siente la calma, antes de la tormenta.",
+      "russian": "Почувствуй спокойствие, до бури.",
+      "category": "Purpose",
+      "generated_at": "2026-06-17T21:13:29.184892"
+    },
+    {
+      "english": "Respira hondo, y luego, navega.",
+      "russian": "Глубоко вдохни, а затем, плыви.",
+      "category": "Purpose",
+      "generated_at": "2026-06-17T21:13:29.184901"
+    },
+    {
+      "english": "Observa el sol. Abraza el silencio.",
+      "russian": "Видишь солнце. Прими тишину.",
+      "category": "Purpose",
+      "generated_at": "2026-06-17T21:13:29.184903"
+    },
+    {
+      "english": "Deja ir, lo que frena tu vuelo.",
+      "russian": "Отпусти, то, что тормозит твой полёт.",
+      "category": "Purpose",
+      "generated_at": "2026-06-17T21:13:29.184904"
+    },
+    {
+      "english": "Toca esa flor. Huele la paz.",
+      "russian": "Коснись того цветка. Вдохни покой.",
+      "category": "Purpose",
+      "generated_at": "2026-06-17T21:13:29.184905"
     }
   ],
-  "last_updated": "2026-06-17T17:51:15.975765"
+  "last_updated": "2026-06-17T21:13:29.184907"
 }
