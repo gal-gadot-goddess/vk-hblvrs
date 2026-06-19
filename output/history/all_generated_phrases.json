@@ -1649,7 +1649,37 @@
       "russian": "Преследуй свой живой инстинкт.",
       "category": "Confidence",
       "generated_at": "2026-06-19T14:13:24.083505"
+    },
+    {
+      "english": "Abre tu ruta, avanza. ",
+      "russian": "Открой свой путь, двигайся вперёд.",
+      "category": "Hope",
+      "generated_at": "2026-06-19T17:21:58.567457"
+    },
+    {
+      "english": "Graba tu huella, ya. ",
+      "russian": "Оставь свой след, сейчас же.",
+      "category": "Hope",
+      "generated_at": "2026-06-19T17:21:58.567466"
+    },
+    {
+      "english": "Lanza la idea, crear. ",
+      "russian": "Брось идею, создавай.",
+      "category": "Hope",
+      "generated_at": "2026-06-19T17:21:58.567467"
+    },
+    {
+      "english": "Vuela hoy, no esperes. ",
+      "russian": "Лети сегодня, не жди.",
+      "category": "Hope",
+      "generated_at": "2026-06-19T17:21:58.567468"
+    },
+    {
+      "english": "Busca tu norte, ahora. ",
+      "russian": "Ищи свой север, сейчас.",
+      "category": "Hope",
+      "generated_at": "2026-06-19T17:21:58.567470"
     }
   ],
-  "last_updated": "2026-06-19T14:13:24.083507"
+  "last_updated": "2026-06-19T17:21:58.567471"
 }
