@@ -1679,7 +1679,37 @@
       "russian": "Ищи свой север, сейчас.",
       "category": "Hope",
       "generated_at": "2026-06-19T17:21:58.567470"
+    },
+    {
+      "english": "Tu voz, tiene poder.",
+      "russian": "Твой голос, обладает силой.",
+      "category": "Confidence",
+      "generated_at": "2026-06-19T20:27:58.048366"
+    },
+    {
+      "english": "Atrévete a hablar, sin miedo.",
+      "russian": "Осмелься говорить, без страха.",
+      "category": "Confidence",
+      "generated_at": "2026-06-19T20:27:58.048375"
+    },
+    {
+      "english": "Cada palabra cuenta, confía.",
+      "russian": "Каждое слово важно, верь.",
+      "category": "Confidence",
+      "generated_at": "2026-06-19T20:27:58.048377"
+    },
+    {
+      "english": "Toma tu espacio, respira.",
+      "russian": "Займи свое место, дыши.",
+      "category": "Confidence",
+      "generated_at": "2026-06-19T20:27:58.048378"
+    },
+    {
+      "english": "Explora tu verdad, alto.",
+      "russian": "Исследуй свою правду, смелее.",
+      "category": "Confidence",
+      "generated_at": "2026-06-19T20:27:58.048379"
     }
   ],
-  "last_updated": "2026-06-19T17:21:58.567471"
+  "last_updated": "2026-06-19T20:27:58.048384"
 }
