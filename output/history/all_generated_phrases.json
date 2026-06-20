@@ -1709,7 +1709,37 @@
       "russian": "Исследуй свою правду, смелее.",
       "category": "Confidence",
       "generated_at": "2026-06-19T20:27:58.048379"
+    },
+    {
+      "english": "Palabra fuerte, mente ágil.",
+      "russian": "Сильное слово, быстрый ум.",
+      "category": "Success",
+      "generated_at": "2026-06-20T10:10:39.725675"
+    },
+    {
+      "english": "Acción clara, mundo tuyo.",
+      "russian": "Чёткое действие, мир твой.",
+      "category": "Success",
+      "generated_at": "2026-06-20T10:10:39.725685"
+    },
+    {
+      "english": "Voz audaz, cambia el hoy.",
+      "russian": "Смелый голос, меняет сегодня.",
+      "category": "Success",
+      "generated_at": "2026-06-20T10:10:39.725686"
+    },
+    {
+      "english": "Sigue el fuego, no el eco.",
+      "russian": "Следуй за огнём, не за эхом.",
+      "category": "Success",
+      "generated_at": "2026-06-20T10:10:39.725688"
+    },
+    {
+      "english": "Piensa rápido, grita fuerte.",
+      "russian": "Думай быстро, кричи громко.",
+      "category": "Success",
+      "generated_at": "2026-06-20T10:10:39.725689"
     }
   ],
-  "last_updated": "2026-06-19T20:27:58.048384"
+  "last_updated": "2026-06-20T10:10:39.725691"
 }
