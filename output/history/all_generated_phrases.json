@@ -1889,7 +1889,37 @@
       "russian": "Понимаешь хорошо, дверь открывается.",
       "category": "Gratitude",
       "generated_at": "2026-06-21T13:05:01.223875"
+    },
+    {
+      "english": "Perdona el daño, sana ya.",
+      "russian": "Прости вред, исцелись сейчас.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-21T16:48:45.726940"
+    },
+    {
+      "english": "Libera cargas, abraza paz.",
+      "russian": "Освободи утечки, прими мир.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-21T16:48:45.726952"
+    },
+    {
+      "english": "Suelta rencor, encuentra luz.",
+      "russian": "Отпусти злобу, найди свет.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-21T16:48:45.726953"
+    },
+    {
+      "english": "Actúa hoy, desata nudo.",
+      "russian": "Действуй сегодня, развяжи узел.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-21T16:48:45.726954"
+    },
+    {
+      "english": "Da un paso, vence ayer.",
+      "russian": "Сделай шаг, победи вчера.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-21T16:48:45.726955"
     }
   ],
-  "last_updated": "2026-06-21T13:05:01.223876"
+  "last_updated": "2026-06-21T16:48:45.726957"
 }
