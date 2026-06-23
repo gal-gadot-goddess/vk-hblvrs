@@ -2069,7 +2069,37 @@
       "russian": "Один вдох, все улучшается.",
       "category": "Confidence",
       "generated_at": "2026-06-22T21:33:38.094776"
+    },
+    {
+      "english": "Cada palabra cuenta, avanza.",
+      "russian": "Каждое слово имеет значение, двигайся вперед.",
+      "category": "Motivation",
+      "generated_at": "2026-06-23T10:38:17.904695"
+    },
+    {
+      "english": "Pequeño progreso, gran resultado.",
+      "russian": "Маленький прогресс, большой результат.",
+      "category": "Motivation",
+      "generated_at": "2026-06-23T10:38:17.904702"
+    },
+    {
+      "english": "Escucha, pregunta, aprende.",
+      "russian": "Слушай, спрашивай, учись.",
+      "category": "Motivation",
+      "generated_at": "2026-06-23T10:38:17.904704"
+    },
+    {
+      "english": "Un día más, sabio eres.",
+      "russian": "Еще один день, ты мудрее.",
+      "category": "Motivation",
+      "generated_at": "2026-06-23T10:38:17.904705"
+    },
+    {
+      "english": "Paso a paso, hazlo.",
+      "russian": "Шаг за шагом, сделай это.",
+      "category": "Motivation",
+      "generated_at": "2026-06-23T10:38:17.904706"
     }
   ],
-  "last_updated": "2026-06-22T21:33:38.094778"
+  "last_updated": "2026-06-23T10:38:17.904708"
 }
