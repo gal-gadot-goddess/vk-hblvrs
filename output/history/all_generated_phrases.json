@@ -2459,7 +2459,37 @@
       "russian": "Настрой на спокойствие, вибрируй больше.",
       "category": "Hope",
       "generated_at": "2026-06-26T10:25:18.098678"
+    },
+    {
+      "english": "Silencio, oye voz semilla.",
+      "russian": "Тишина, слышишь голос семени.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-26T13:10:55.559512"
+    },
+    {
+      "english": "Corazón, late tiempo.",
+      "russian": "Сердце, бьётся время.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-26T13:10:55.559521"
+    },
+    {
+      "english": "Sigue flor, agua humilde.",
+      "russian": "Следуй за цветком, вода скромная.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-26T13:10:55.559523"
+    },
+    {
+      "english": "Viento lleva, destino nuevo.",
+      "russian": "Ветер уносит, судьба новая.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-26T13:10:55.559524"
+    },
+    {
+      "english": "Piel siente sol. Arde.",
+      "russian": "Кожа чувствует солнце. Жжёт.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-26T13:10:55.559525"
     }
   ],
-  "last_updated": "2026-06-26T10:25:18.098680"
+  "last_updated": "2026-06-26T13:10:55.559527"
 }
