@@ -2489,7 +2489,37 @@
       "russian": "Кожа чувствует солнце. Жжёт.",
       "category": "Perseverance",
       "generated_at": "2026-06-26T13:10:55.559525"
+    },
+    {
+      "english": "Fuerza, rocío mañanero.",
+      "russian": "Сила, утренний роса.",
+      "category": "Strength",
+      "generated_at": "2026-06-26T17:04:17.088497"
+    },
+    {
+      "english": "Raíz profunda, no temblando.",
+      "russian": "Глубокий корень, без дрожи.",
+      "category": "Strength",
+      "generated_at": "2026-06-26T17:04:17.088509"
+    },
+    {
+      "english": "Soplo de águila, libre.",
+      "russian": "Дуновение орла, свободно.",
+      "category": "Strength",
+      "generated_at": "2026-06-26T17:04:17.088511"
+    },
+    {
+      "english": "Gigante silencioso, crece.",
+      "russian": "Тихий гигант, растет.",
+      "category": "Strength",
+      "generated_at": "2026-06-26T17:04:17.088512"
+    },
+    {
+      "english": "Sol nacido, verdad brilla.",
+      "russian": "Восшедшее солнце, истина сияет.",
+      "category": "Strength",
+      "generated_at": "2026-06-26T17:04:17.088513"
     }
   ],
-  "last_updated": "2026-06-26T13:10:55.559527"
+  "last_updated": "2026-06-26T17:04:17.088515"
 }
