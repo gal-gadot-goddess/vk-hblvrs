@@ -2639,7 +2639,37 @@
       "russian": "Мост ты строишь, достигнешь.",
       "category": "Success",
       "generated_at": "2026-06-27T16:09:41.274919"
+    },
+    {
+      "english": "Da, el mundo sonríe.",
+      "russian": "Дари, и мир тебе улыбнётся.",
+      "category": "Kindness",
+      "generated_at": "2026-06-27T20:11:51.042133"
+    },
+    {
+      "english": "Un gesto, luz que nace.",
+      "russian": "Одна доброта — возродившаяся тень.",
+      "category": "Kindness",
+      "generated_at": "2026-06-27T20:11:51.042141"
+    },
+    {
+      "english": "Abre el alma, recibe.",
+      "russian": "Открой душу — и получишь.",
+      "category": "Kindness",
+      "generated_at": "2026-06-27T20:11:51.042143"
+    },
+    {
+      "english": "Generosidad sana.",
+      "russian": "Щедрость исцеляет.",
+      "category": "Kindness",
+      "generated_at": "2026-06-27T20:11:51.042144"
+    },
+    {
+      "english": "Ofrece paz, respira.",
+      "russian": "Предложи мир — и дыши.",
+      "category": "Kindness",
+      "generated_at": "2026-06-27T20:11:51.042146"
     }
   ],
-  "last_updated": "2026-06-27T16:09:41.274920"
+  "last_updated": "2026-06-27T20:11:51.042147"
 }
