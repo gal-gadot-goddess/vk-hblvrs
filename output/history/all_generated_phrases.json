@@ -2729,7 +2729,37 @@
       "russian": "Слушай терпеливо, исцеляйтесь вместе.",
       "category": "Kindness",
       "generated_at": "2026-06-28T12:16:21.313688"
+    },
+    {
+      "english": "Cambia el chip, avanza.",
+      "russian": "Смени пластинку, двигайся дальше.",
+      "category": "Success",
+      "generated_at": "2026-06-28T16:16:16.798841"
+    },
+    {
+      "english": "Construye tu hoy.",
+      "russian": "Строй свое сегодня.",
+      "category": "Success",
+      "generated_at": "2026-06-28T16:16:16.798852"
+    },
+    {
+      "english": "Acepta el cambio, crece.",
+      "russian": "Прими изменения, расти.",
+      "category": "Success",
+      "generated_at": "2026-06-28T16:16:16.798854"
+    },
+    {
+      "english": "Un paso afuera, confianza.",
+      "russian": "Шаг наружу, уверенность.",
+      "category": "Success",
+      "generated_at": "2026-06-28T16:16:16.798855"
+    },
+    {
+      "english": "Piensa claro, actúa.",
+      "russian": "Мысли ясно, действуй.",
+      "category": "Success",
+      "generated_at": "2026-06-28T16:16:16.798856"
     }
   ],
-  "last_updated": "2026-06-28T12:16:21.313690"
+  "last_updated": "2026-06-28T16:16:16.798857"
 }
