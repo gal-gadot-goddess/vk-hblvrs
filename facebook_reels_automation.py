@@ -19,7 +19,7 @@ if sys.platform == "win32":
 load_dotenv()
 
 POLLINATIONS_API_KEY = os.getenv("POLLINATIONS_API_KEY")
-AI_MODEL = os.getenv("AI_MODEL", "gemini-fast")
+AI_MODEL = os.getenv("AI_MODEL", "openai/gpt-5.4-nano")
 
 # Directories
 BASE_DIR = Path(__file__).parent
